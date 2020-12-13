@@ -19,4 +19,8 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="src\README.md" />
+    <None Include="src\.gitignore" />
+  </ItemGroup>
 </Project>
