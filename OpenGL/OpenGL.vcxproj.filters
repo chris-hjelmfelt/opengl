@@ -22,5 +22,6 @@
   <ItemGroup>
     <None Include="src\README.md" />
     <None Include="src\.gitignore" />
+    <None Include="res\shaders\Basic.shader" />
   </ItemGroup>
 </Project>
